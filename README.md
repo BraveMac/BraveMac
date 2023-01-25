@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Saif
-- 👀 I’m interested in learning about IOS.
-- 🌱 I’m currently learning Swift.
-- 💞️ I’m looking to collaborate, in developing the IOS applications.
+- 👀 I’m interested in learning about iOS.
+- 🌱 I’m currently learning Swift, SwiftUI, UIKit.
+- 💞️ I’m looking to collaborate, learnining and sharing knowledge, in iOS developing.
 - 📫 You can reach me out throug Email: bravemac3@gmail.com
 
 <!---
